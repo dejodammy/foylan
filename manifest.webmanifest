@@ -1,0 +1,11 @@
+{
+  "name": "Foylan Ventures Limited",
+  "short_name": "Foylan",
+  "start_url": "/foylan/",
+  "display": "standalone",
+  "background_color": "#f4f5f6",
+  "theme_color": "#f4f5f6",
+  "icons": [
+    { "src": "/foylan/assets/images/favicon-192.png", "sizes": "192x192", "type": "image/png" }
+  ]
+}
